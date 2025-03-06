@@ -50,3 +50,5 @@ next-env.d.ts
 !/public/products/no-product.jpg
 !/public/reviews/no-review.jpg
 
+
+.vercel
